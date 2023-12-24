@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+![Screenshot_20231224_204538](https://github.com/coderodilov/flutter_dicee_app/assets/91076403/bf3710f3-10f8-4398-899f-5298607c20a4)
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
